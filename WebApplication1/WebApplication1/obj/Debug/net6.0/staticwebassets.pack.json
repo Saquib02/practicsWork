@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\RIZWAN KHAN\\practicsWork\\WebApplication1\\WebApplication1\\wwwroot\\css\\BoostwatchThemes.css",
+      "PackagePath": "staticwebassets\\css\\BoostwatchThemes.css"
+    },
+    {
       "Id": "C:\\Users\\RIZWAN KHAN\\practicsWork\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

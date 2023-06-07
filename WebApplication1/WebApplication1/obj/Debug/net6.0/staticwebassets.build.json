@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TxDu0lIkwTebNxTF7t652thmE/r46QyUao+1LYNlD30=",
+  "Hash": "24DvkK4fOJeDYzbhf2LqKbT9p/SOPy3ywsrptzZOAD4=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\RIZWAN KHAN\\practicsWork\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\RIZWAN KHAN\\practicsWork\\WebApplication1\\WebApplication1\\wwwroot\\css\\BoostwatchThemes.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\RIZWAN KHAN\\practicsWork\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/BoostwatchThemes.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BoostwatchThemes.css"
     },
     {
       "Identity": "C:\\Users\\RIZWAN KHAN\\practicsWork\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
